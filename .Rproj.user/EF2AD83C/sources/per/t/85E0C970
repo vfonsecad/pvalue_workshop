@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574328044673.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2507134576",
+    "id" : "85E0C970",
+    "lastKnownWriteTime" : 1574328695,
+    "last_content_update" : 1574328695775,
+    "path" : "~/vfonsecad/independent_work/pvalue_workshop/case01/case01_04_reproducibility_pvalue.R",
+    "project_path" : "case01/case01_04_reproducibility_pvalue.R",
+    "properties" : {
+        "cursorPosition" : "80,0",
+        "scrollLine" : "67"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

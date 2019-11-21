@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574280195614.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "593862949",
+    "id" : "5E80F92E",
+    "lastKnownWriteTime" : 1574328020,
+    "last_content_update" : 1574328020846,
+    "path" : "~/vfonsecad/independent_work/pvalue_workshop/case01/case01_03_model02_cart.R",
+    "project_path" : "case01/case01_03_model02_cart.R",
+    "properties" : {
+        "cursorPosition" : "28,0",
+        "scrollLine" : "18"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

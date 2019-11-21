@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574273460339.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3766965629",
+    "id" : "34B90FFB",
+    "lastKnownWriteTime" : 1574326851,
+    "last_content_update" : 1574326851068,
+    "path" : "~/vfonsecad/independent_work/pvalue_workshop/case01/case01_01_read_data.R",
+    "project_path" : "case01/case01_01_read_data.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
